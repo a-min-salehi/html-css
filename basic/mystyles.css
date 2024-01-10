@@ -1,0 +1,27 @@
+@charset "utf-8";
+/* CSS Document */
+
+div {
+  width: 300px;
+  margin: 3px;
+  padding: 1%;
+  color: white;
+  display: inline-block;
+}
+.iran{
+	background-color: #448aff;
+}
+.england{
+	background-color: #fff4a3;
+	color: black;
+}
+.info{
+	background-color: tomato;
+
+}
+#myHeader {
+  background-color: lightblue;
+  padding: 1px;
+  margin: 1px;
+  text-align: center;
+} 
