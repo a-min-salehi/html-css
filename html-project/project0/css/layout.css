@@ -1,0 +1,33 @@
+@charset "utf-8";
+/* CSS Document */
+
+footer {
+  background-color: #777;
+  padding: 10px;
+  text-align: center;
+  color: white;
+}
+
+nav a{
+	 text-decoration: none;
+}
+
+h1, p {
+	text-align: center;
+        }
+
+.container {
+	text-align: center;
+	width: 80%;
+	margin: 20px auto;
+	background-color: #fff;
+	padding: 20px;
+	box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+
+#myHeader {
+  background-color: lightblue;
+  padding: 1px;
+  margin: 1px;
+  text-align: center;
+} 

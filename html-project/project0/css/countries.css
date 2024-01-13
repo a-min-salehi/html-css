@@ -1,17 +1,16 @@
 @charset "utf-8";
 /* CSS Document */
 
-div {
-  width: 300px;
-  margin: 3px;
+.box {
+  width: 30%;
+  margin: 1px;
   padding: 1%;
-  color: white;
   display: inline-block;
 }
-.iran{
+.asia{
 	background-color: #448aff;
 }
-.england{
+.europe{
 	background-color: #fff4a3;
 	color: black;
 }
@@ -19,9 +18,3 @@ div {
 	background-color: tomato;
 
 }
-#myHeader {
-  background-color: lightblue;
-  padding: 1px;
-  margin: 1px;
-  text-align: center;
-} 
