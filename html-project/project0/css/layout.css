@@ -1,6 +1,11 @@
 @charset "utf-8";
 /* CSS Document */
 
+textarea {
+   resize: none;
+}
+
+
 footer {
   background-color: #777;
   padding: 10px;
@@ -24,6 +29,12 @@ h1, p {
 	padding: 20px;
 	box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
         }
+#map{
+  width: 300px;
+  margin: auto;
+  padding: 1px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
 
 #myHeader {
   background-color: lightblue;
